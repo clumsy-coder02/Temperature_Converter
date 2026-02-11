@@ -17,7 +17,7 @@ A simple interactive Python application that converts temperature between Fahren
 
 Run the script:
 ```bash
-python main.py
+python main.py or python3 main.py
 ```
 
 Follow the prompts:
